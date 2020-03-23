@@ -38,3 +38,11 @@ C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\runtimes
 C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
 C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
 C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\DailyLog.Migrations.deps.json
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\DailyLog.Migrations.runtimeconfig.json
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\DailyLog.Migrations.runtimeconfig.dev.json
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\DailyLog.Migrations.dll
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\DailyLog.Migrations.pdb
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\obj\Debug\netcoreapp3.1\DailyLog.Migrations.dll
+C:\Users\mahmo\source\repos\DailyLog\MIgrations\obj\Debug\netcoreapp3.1\DailyLog.Migrations.pdb

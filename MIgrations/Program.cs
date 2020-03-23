@@ -1,17 +1,14 @@
 ﻿using System;
-using System.IO;
-using System.Linq;
 using DailyLog.Migrations.Migrations;
 using FluentMigrator.Runner;
 using FluentMigrator.Runner.Initialization;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Win32.SafeHandles;
 
 
 namespace DailyLog.Migrations
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

@@ -7,7 +7,7 @@ using FluentMigrator.Expressions;
 namespace DailyLog.Migrations.Migrations
 {
     [Migration(1)]
-    public class _001_UserTable :AutoReversingMigration
+    public class _001_UserTable:AutoReversingMigration
     {
         public override void Up()
         {
