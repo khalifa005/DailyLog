@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyLog", "DailyLog\DailyLog.csproj", "{C310BE06-9478-42AB-95CC-02B44568FEFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailyLog", "DailyLog\DailyLog.csproj", "{C310BE06-9478-42AB-95CC-02B44568FEFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyLog.Migrations", "MIgrations\DailyLog.Migrations.csproj", "{48B5FCEB-523E-463D-AF64-A4B0590D1E50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Migrations.DailyLog", "Migrations.DailyLog\Migrations.DailyLog.csproj", "{630E37D8-C5ED-4C15-8E76-E93FE7311287}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C310BE06-9478-42AB-95CC-02B44568FEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C310BE06-9478-42AB-95CC-02B44568FEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C310BE06-9478-42AB-95CC-02B44568FEFA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{48B5FCEB-523E-463D-AF64-A4B0590D1E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48B5FCEB-523E-463D-AF64-A4B0590D1E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48B5FCEB-523E-463D-AF64-A4B0590D1E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48B5FCEB-523E-463D-AF64-A4B0590D1E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630E37D8-C5ED-4C15-8E76-E93FE7311287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630E37D8-C5ED-4C15-8E76-E93FE7311287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630E37D8-C5ED-4C15-8E76-E93FE7311287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630E37D8-C5ED-4C15-8E76-E93FE7311287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
